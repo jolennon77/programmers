@@ -1,6 +1,7 @@
 package lv1;
 class Q_12943 {
-    //콜라츠 추측
+    //콜라츠 추측\
+
     public int solution(int num) {
         int answer = 0;
         long number = num;
